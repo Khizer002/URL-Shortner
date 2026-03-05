@@ -38,7 +38,7 @@ how quickly Streamlit can be used to build simple web apps.
 
 <h3>Run the app:</h3>
 
-<pre><code>streamlit run app.py</code></pre>
+<pre><code>streamlit run main.py</code></pre>
 
 <h2>Why This Project?</h2>
 
